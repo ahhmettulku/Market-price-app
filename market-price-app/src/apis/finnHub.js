@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const TOKEN = "chuoq2hr01qphnn2cog0chuoq2hr01qphnn2cogg";
+const TOKEN = ["your-api-key"];
 let options = {
   baseURL: "https://finnhub.io/api/v1",
   params: {
